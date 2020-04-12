@@ -56,3 +56,8 @@ class Student {
 	}
 	
 }
+class Course{
+	List<Student> studenti;
+	//Methods
+	
+}
